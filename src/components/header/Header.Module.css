@@ -1,0 +1,42 @@
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+nav ul li{
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #000;
+    font-weight: 400;
+    font-size: 15px;
+}
+nav ul li a:hover{
+    color:#FA8158;
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+}
+.social_icons{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    cursor: pointer;
+}
+.logo{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.logo img{
+    width: 30%;
+}
+
+ select{
+    font-weight: 200;
+    font-size: 14px;
+    outline: none;
+    border: none;
+}

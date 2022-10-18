@@ -1,0 +1,13 @@
+.im{
+    background-image: url("../img/caro_comm_bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 180px;
+    width: 180px;
+}
+.react-multiple-carousel__arrow::before {
+    color:#000;
+    background-color: #fff;
+    border-radius: 50%;
+    padding: 7px;
+}
